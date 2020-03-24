@@ -1,0 +1,6 @@
+# ninja log v5
+0	52	1584790949	CMakeFiles/native-lib.dir/giflib/gif_err.c.o	a1a7c320a7263df2
+1	77	1584790949	CMakeFiles/native-lib.dir/giflib/gifalloc.c.o	40b0df50d7cd5249
+0	131	1584790949	CMakeFiles/native-lib.dir/giflib/dgif_lib.c.o	12ce332c286fa59e
+0	154	1584790950	CMakeFiles/native-lib.dir/native-lib.cpp.o	8860eb5d929cbde3
+154	187	1584790950	/Users/lanhuajian/Desktop/AndroidStudioproject/democollection/gifloader/build/intermediates/cmake/debug/obj/armeabi/libnative-lib.so	1492de24dd07db89

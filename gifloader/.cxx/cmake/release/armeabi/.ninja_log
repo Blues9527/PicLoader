@@ -1,0 +1,26 @@
+# ninja log v5
+0	6	0	clean	5d9c2120448225ec
+0	6	0	clean	5d9c2120448225ec
+1	67	1584768379	CMakeFiles/native-lib.dir/giflib/gif_err.c.o	1e94b2dfe229581b
+1	120	1584768379	CMakeFiles/native-lib.dir/giflib/gifalloc.c.o	5be06f1890af3894
+0	195	1584768379	CMakeFiles/native-lib.dir/native-lib.cpp.o	3741feb965fe682f
+0	205	1584768379	CMakeFiles/native-lib.dir/giflib/dgif_lib.c.o	1556536f330605bb
+205	232	1584768380	/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/build/intermediates/cmake/release/obj/armeabi/libnative-lib.so	8009894494cd4a0d
+0	7	0	clean	5d9c2120448225ec
+1	52	1584768567	CMakeFiles/native-lib.dir/giflib/gif_err.c.o	1e94b2dfe229581b
+1	102	1584768567	CMakeFiles/native-lib.dir/giflib/gifalloc.c.o	5be06f1890af3894
+1	173	1584768567	CMakeFiles/native-lib.dir/native-lib.cpp.o	3741feb965fe682f
+1	199	1584768567	CMakeFiles/native-lib.dir/giflib/dgif_lib.c.o	1556536f330605bb
+199	226	1584768567	/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/build/intermediates/cmake/release/obj/armeabi/libnative-lib.so	8009894494cd4a0d
+0	5	0	clean	5d9c2120448225ec
+2	54	1584771350	CMakeFiles/native-lib.dir/giflib/gif_err.c.o	1e94b2dfe229581b
+2	96	1584771350	CMakeFiles/native-lib.dir/giflib/gifalloc.c.o	5be06f1890af3894
+1	169	1584771350	CMakeFiles/native-lib.dir/native-lib.cpp.o	3741feb965fe682f
+2	192	1584771350	CMakeFiles/native-lib.dir/giflib/dgif_lib.c.o	1556536f330605bb
+192	221	1584771350	/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/build/intermediates/cmake/release/obj/armeabi/libnative-lib.so	8009894494cd4a0d
+0	5	0	clean	5d9c2120448225ec
+2	63	1584772899	CMakeFiles/native-lib.dir/giflib/gif_err.c.o	1e94b2dfe229581b
+2	109	1584772899	CMakeFiles/native-lib.dir/giflib/gifalloc.c.o	5be06f1890af3894
+1	189	1584772899	CMakeFiles/native-lib.dir/native-lib.cpp.o	3741feb965fe682f
+1	202	1584772899	CMakeFiles/native-lib.dir/giflib/dgif_lib.c.o	1556536f330605bb
+202	230	1584772899	/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/build/intermediates/cmake/release/obj/armeabi/libnative-lib.so	8009894494cd4a0d

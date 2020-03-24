@@ -1,0 +1,60 @@
+{
+  "stringTable": {
+    "0": "/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/.cxx/cmake/debug/armeabi",
+    "1": "--target=armv5te-none-linux-androideabi --gcc-toolchain=/Users/lanhuajian/NDK/android-ndk-r16b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/lanhuajian/NDK/android-ndk-r16b/sysroot -Dnative_lib_EXPORTS -isystem /Users/lanhuajian/NDK/android-ndk-r16b/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/lanhuajian/NDK/android-ndk-r16b/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi/include -isystem /Users/lanhuajian/NDK/android-ndk-r16b/sources/cxx-stl/gnu-libstdc++/4.9/include/backward -isystem /Users/lanhuajian/NDK/android-ndk-r16b/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=armv5te-none-linux-androideabi --gcc-toolchain=/Users/lanhuajian/NDK/android-ndk-r16b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/lanhuajian/NDK/android-ndk-r16b/sysroot -Dnative_lib_EXPORTS -isystem /Users/lanhuajian/NDK/android-ndk-r16b/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/lanhuajian/NDK/android-ndk-r16b/build/cmake/android.toolchain.cmake",
+    "/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/lanhuajian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/.cxx/cmake/debug/armeabi\" clean"
+  ],
+  "buildTargetsCommand": "/Users/lanhuajian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/.cxx/cmake/debug/armeabi\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-armeabi": {
+      "buildCommand": "/Users/lanhuajian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/.cxx/cmake/debug/armeabi\" native-lib",
+      "buildType": "debug",
+      "toolchain": "1297947152",
+      "abi": "armeabi",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/src/main/cpp/giflib/dgif_lib.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/src/main/cpp/giflib/gif_err.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/src/main/cpp/giflib/gifalloc.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/src/main/cpp/native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/build/intermediates/cmake/debug/obj/armeabi/libnative-lib.so"
+    }
+  },
+  "toolchains": {
+    "1297947152": {
+      "cCompilerExecutable": "/Users/lanhuajian/NDK/android-ndk-r16b/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/lanhuajian/NDK/android-ndk-r16b/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

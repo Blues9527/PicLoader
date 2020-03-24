@@ -1,0 +1,20 @@
+Executable : /Users/lanhuajian/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Users/lanhuajian/Desktop/AndroidStudioproject/democollection/gifloader/src/main/cpp
+-B/Users/lanhuajian/Desktop/AndroidStudioproject/democollection/gifloader/.externalNativeBuild/cmake/debug/armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-21
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/lanhuajian/Desktop/AndroidStudioproject/democollection/gifloader/build/intermediates/cmake/debug/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=/Users/lanhuajian/NDK/android-ndk-r16b
+-DCMAKE_CXX_FLAGS=
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DCMAKE_SYSTEM_VERSION=21
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_ANDROID_NDK=/Users/lanhuajian/NDK/android-ndk-r16b
+-DCMAKE_TOOLCHAIN_FILE=/Users/lanhuajian/NDK/android-ndk-r16b/build/cmake/android.toolchain.cmake
+-G Ninja
+-DCMAKE_MAKE_PROGRAM=/Users/lanhuajian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+jvmArgs : 
+

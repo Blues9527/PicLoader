@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "/Users/lanhuajian/Library/Android/sdk/ndk/20.1.5948944/build/cmake/platforms.cmake",
+    "/Users/lanhuajian/Library/Android/sdk/ndk/20.1.5948944/build/cmake/android.toolchain.cmake",
+    "/Users/lanhuajian/Desktop/AndroidStudioproject/PicLoader/gifloader/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/lanhuajian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/lanhuajian/Desktop/AndroidStudioproject/PicLoader/gifloader/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/lanhuajian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/lanhuajian/Desktop/AndroidStudioproject/PicLoader/gifloader/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/lanhuajian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/lanhuajian/Desktop/AndroidStudioproject/PicLoader/gifloader/.cxx/cmake/debug/arm64-v8a\" native-lib",
+      "abi": "arm64-v8a",
+      "output": "/Users/lanhuajian/Desktop/AndroidStudioproject/PicLoader/gifloader/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "/Users/lanhuajian/NDK/android-ndk-r16b/build/cmake/android.toolchain.cmake",
+    "/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/lanhuajian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/.cxx/cmake/debug/armeabi\" clean"
+  ],
+  "buildTargetsCommand": "/Users/lanhuajian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/.cxx/cmake/debug/armeabi\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-armeabi": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/lanhuajian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/.cxx/cmake/debug/armeabi\" native-lib",
+      "abi": "armeabi",
+      "output": "/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/build/intermediates/cmake/debug/obj/armeabi/libnative-lib.so"
+    }
+  }
+}

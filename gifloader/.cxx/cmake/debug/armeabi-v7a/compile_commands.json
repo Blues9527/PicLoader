@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/Users/lanhuajian/Desktop/AndroidStudioproject/PicLoader/gifloader/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/lanhuajian/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/lanhuajian/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/lanhuajian/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/native-lib.cpp.o -c /Users/lanhuajian/Desktop/AndroidStudioproject/PicLoader/gifloader/src/main/cpp/native-lib.cpp",
+  "file": "/Users/lanhuajian/Desktop/AndroidStudioproject/PicLoader/gifloader/src/main/cpp/native-lib.cpp"
+},
+
+{
+  "directory": "/Users/lanhuajian/Desktop/AndroidStudioproject/PicLoader/gifloader/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/lanhuajian/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/lanhuajian/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/lanhuajian/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/giflib/dgif_lib.c.o   -c /Users/lanhuajian/Desktop/AndroidStudioproject/PicLoader/gifloader/src/main/cpp/giflib/dgif_lib.c",
+  "file": "/Users/lanhuajian/Desktop/AndroidStudioproject/PicLoader/gifloader/src/main/cpp/giflib/dgif_lib.c"
+},
+
+{
+  "directory": "/Users/lanhuajian/Desktop/AndroidStudioproject/PicLoader/gifloader/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/lanhuajian/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/lanhuajian/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/lanhuajian/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/giflib/gif_err.c.o   -c /Users/lanhuajian/Desktop/AndroidStudioproject/PicLoader/gifloader/src/main/cpp/giflib/gif_err.c",
+  "file": "/Users/lanhuajian/Desktop/AndroidStudioproject/PicLoader/gifloader/src/main/cpp/giflib/gif_err.c"
+},
+
+{
+  "directory": "/Users/lanhuajian/Desktop/AndroidStudioproject/PicLoader/gifloader/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/lanhuajian/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/lanhuajian/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/lanhuajian/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/giflib/gifalloc.c.o   -c /Users/lanhuajian/Desktop/AndroidStudioproject/PicLoader/gifloader/src/main/cpp/giflib/gifalloc.c",
+  "file": "/Users/lanhuajian/Desktop/AndroidStudioproject/PicLoader/gifloader/src/main/cpp/giflib/gifalloc.c"
+}
+]

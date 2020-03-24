@@ -1,0 +1,5 @@
+[1/5] Building C object CMakeFiles/native-lib.dir/giflib/gif_err.c.o
+[2/5] Building C object CMakeFiles/native-lib.dir/giflib/gifalloc.c.o
+[3/5] Building C object CMakeFiles/native-lib.dir/giflib/dgif_lib.c.o
+[4/5] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
+[5/5] Linking CXX shared library /Users/lanhuajian/Desktop/AndroidStudioproject/democollection/gifloader/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so

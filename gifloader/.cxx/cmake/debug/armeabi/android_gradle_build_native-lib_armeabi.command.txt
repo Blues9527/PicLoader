@@ -1,0 +1,7 @@
+Executable : /Users/lanhuajian/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/.cxx/cmake/debug/armeabi
+native-lib
+jvmArgs : 
+

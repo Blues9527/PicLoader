@@ -1,0 +1,17 @@
+{
+  "buildFiles": [
+    "/Users/lanhuajian/NDK/android-ndk-r16b/build/cmake/android.toolchain.cmake",
+    "/Users/lanhuajian/Desktop/AndroidStudioproject/democollection/gifloader/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/lanhuajian/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/lanhuajian/Desktop/AndroidStudioproject/democollection/gifloader/.externalNativeBuild/cmake/release/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "native-lib-Release-armeabi-v7a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/lanhuajian/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/lanhuajian/Desktop/AndroidStudioproject/democollection/gifloader/.externalNativeBuild/cmake/release/armeabi-v7a --target native-lib",
+      "abi": "armeabi-v7a",
+      "output": "/Users/lanhuajian/Desktop/AndroidStudioproject/democollection/gifloader/build/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so"
+    }
+  }
+}

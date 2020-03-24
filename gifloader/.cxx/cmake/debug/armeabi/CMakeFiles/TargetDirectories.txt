@@ -1,0 +1,3 @@
+/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/.cxx/cmake/debug/armeabi/CMakeFiles/rebuild_cache.dir
+/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/.cxx/cmake/debug/armeabi/CMakeFiles/edit_cache.dir
+/Users/lanhuajian/Desktop/AndroidStudioproject/BluesApp/gifloader/.cxx/cmake/debug/armeabi/CMakeFiles/native-lib.dir
